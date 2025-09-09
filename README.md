@@ -43,6 +43,7 @@ It should start with ssh-ed25519 and end with your email.
 On Github navigate to the settings menu by clicking your profile icon in the top right corner.
 Within the settings menu locate the SSH and GPG keys option and click that.
 <img width="351" height="330" alt="image" src="https://github.com/user-attachments/assets/1f1f846e-1d58-47a5-8d2f-4bce15ad7115" />
+
 You will then click the green New SSH key 
 <img width="173" height="66" alt="image" src="https://github.com/user-attachments/assets/e9e51ec8-59f0-4a43-9819-bebbf52519af" />
 
