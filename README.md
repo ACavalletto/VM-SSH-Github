@@ -2,7 +2,7 @@
 
 Generate a new SSH key on your VM machine and then add that generated key to your Github to give your VM SSH access to your Github repos.
 
-In your terminal within your VM run the following command, clireplacing the email in the example with your Github email address:
+In your terminal within your VM run the following command, replacing the email in the example with your Github email address:
 ```
 ssh-keygen -t ed25519 -C "your_email@example.com"
 ```
